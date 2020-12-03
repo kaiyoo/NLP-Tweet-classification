@@ -1,5 +1,5 @@
 # Tweet Classification
-Simple text classification project: whether a tweet constitutes a rumour event
+Text classification project: whether a tweet constitutes a rumour event
 
 1. Gather tweet messages from data
 2. Preprocessing
